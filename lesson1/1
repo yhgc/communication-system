@@ -1,0 +1,9 @@
+/*CU:=?BOOL? add the counter the data type is bool
+R:=?BOOL?reset the counter adnthe data type is bool data 
+pv"=?int?counter  and the data is int type 
+q=>?bool? counter output  make bool type 
+cv=>?int? counter the recunert value the tyep is int
+*/
+
+(CU:=X0.R:=X1,PV:=K10,Q=>M0,CV=>D10);
+OUT(M0,Y0); //MAKE HTE Y0 TO OUT PUT 
